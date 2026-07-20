@@ -13,7 +13,7 @@ An interactive, user-friendly web application built with **Streamlit** and **Sci
 
 Experience the application live on Streamlit Community Cloud:
 
-🔗 **[Launch the Iris Prediction App](https://ntiirisdatasetforapp-dpgeuqqvqnsrdi9dfwfdov.streamlit.app)**
+🔗 **[Launch the Iris Prediction App]([https://ntiirisdatasetforapp-dpgeuqqvqnsrdi9dfwfdov.streamlit.app](https://ntiirisdatasetforapp-kmnbem7wpe8v4ueu4mny47.streamlit.app))**
 
 ---
 
